@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5_7-amSGQpJ9ynjVVCIH-14" connectable="0" parent="1" style="group;verticalAlign=middle;labelBackgroundColor=none;fontColor=light-dark(#1c0202, #121212);" value="" vertex="1">
-          <mxGeometry height="1275" width="1025" x="-198" y="110" as="geometry" />
+        <mxCell id="5_7-amSGQpJ9ynjVVCIH-14" connectable="0" parent="1" style="group;verticalAlign=middle;labelBackgroundColor=none;fontColor=light-dark(#1c0202, #121212);dashed=1;dashPattern=12 12;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="1275" width="1025" x="-155" y="110" as="geometry" />
         </mxCell>
         <mxCell id="RyXczu5QCd7OCQcQSBTK-8" edge="1" parent="5_7-amSGQpJ9ynjVVCIH-14" source="RyXczu5QCd7OCQcQSBTK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;align=left;labelBorderColor=none;verticalAlign=middle;horizontal=1;fontSize=8;labelBackgroundColor=none;fontColor=light-dark(#1c0202, #121212);fontFamily=Verdana;textDirection=ltr;strokeColor=#457B9D;" target="RyXczu5QCd7OCQcQSBTK-4">
           <mxGeometry relative="1" as="geometry" />
@@ -42,29 +42,17 @@
         <mxCell id="RyXczu5QCd7OCQcQSBTK-6" parent="5_7-amSGQpJ9ynjVVCIH-14" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelBorderColor=none;verticalAlign=middle;horizontal=1;fontSize=8;labelBackgroundColor=none;fontFamily=Verdana;textDirection=ltr;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;进行 IDME 修改，切换到 Diag 版本后必须执行此操作。&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;Tiến hành chỉnh sửa IDME, sau khi chuyển sang bản Diag thì bắt buộc phải thực hiện thao tác này.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="75" width="245" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-20" edge="1" parent="5_7-amSGQpJ9ynjVVCIH-14" source="RyXczu5QCd7OCQcQSBTK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;labelBorderColor=none;verticalAlign=middle;horizontal=1;fontSize=8;labelBackgroundColor=none;fontColor=light-dark(#1c0202, #121212);fontFamily=Verdana;textDirection=ltr;strokeColor=#457B9D;" target="RyXczu5QCd7OCQcQSBTK-19" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="RyXczu5QCd7OCQcQSBTK-24" edge="1" parent="5_7-amSGQpJ9ynjVVCIH-14" source="RyXczu5QCd7OCQcQSBTK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;align=left;labelBorderColor=none;verticalAlign=middle;horizontal=1;fontSize=8;labelBackgroundColor=none;fontColor=light-dark(#1c0202, #121212);fontFamily=Verdana;textDirection=ltr;strokeColor=#457B9D;" target="RyXczu5QCd7OCQcQSBTK-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-14" parent="5_7-amSGQpJ9ynjVVCIH-14" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelBorderColor=none;verticalAlign=middle;horizontal=1;fontSize=8;labelBackgroundColor=none;fontFamily=Verdana;textDirection=ltr;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=light-dark(#1c0202, #121212);" value="&lt;div&gt;确认当前设定的电压&lt;/div&gt;&lt;div&gt;(HV/NV/LV)、温度(HT/NT/LT)&lt;/div&gt;&lt;div&gt;及设备软件版本。&lt;/div&gt;" vertex="1">
+        <mxCell id="RyXczu5QCd7OCQcQSBTK-14" parent="5_7-amSGQpJ9ynjVVCIH-14" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelBorderColor=none;verticalAlign=middle;horizontal=1;fontSize=8;labelBackgroundColor=none;fontFamily=Verdana;textDirection=ltr;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=light-dark(#1c0202, #121212);" value="&lt;ul&gt;&lt;li&gt;确认当前设定的电压(HV/NV/LV)、温度(HT/NT/LT)及设备软件版本。&lt;/li&gt;&lt;li&gt;&lt;li&gt;Xác nhận điện áp hiện tại được cài đặt (HV/NV/LV), nhiệt độ (HT/NT/LT) và phiên bản phần mềm của thiết bị.&lt;/li&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="60" width="225" x="10" y="460" as="geometry" />
-        </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-19" parent="5_7-amSGQpJ9ynjVVCIH-14" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;align=left;labelBorderColor=none;verticalAlign=middle;horizontal=1;fontSize=8;labelBackgroundColor=none;fontFamily=Verdana;textDirection=ltr;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=light-dark(#1c0202, #121212);" value="adb shell dtest SW_get_info" vertex="1">
-          <mxGeometry height="80" width="635" x="390" y="450" as="geometry" />
-        </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-23" edge="1" parent="5_7-amSGQpJ9ynjVVCIH-14" source="RyXczu5QCd7OCQcQSBTK-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;labelBorderColor=none;verticalAlign=middle;horizontal=1;fontSize=8;labelBackgroundColor=none;fontColor=light-dark(#1c0202, #121212);fontFamily=Verdana;textDirection=ltr;strokeColor=#457B9D;" target="RyXczu5QCd7OCQcQSBTK-22" value="">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RyXczu5QCd7OCQcQSBTK-26" edge="1" parent="5_7-amSGQpJ9ynjVVCIH-14" source="RyXczu5QCd7OCQcQSBTK-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;align=left;labelBorderColor=none;verticalAlign=middle;horizontal=1;fontSize=8;labelBackgroundColor=none;fontColor=light-dark(#1c0202, #121212);fontFamily=Verdana;textDirection=ltr;strokeColor=#457B9D;" target="RyXczu5QCd7OCQcQSBTK-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-21" parent="5_7-amSGQpJ9ynjVVCIH-14" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelBorderColor=none;verticalAlign=middle;horizontal=1;fontSize=8;labelBackgroundColor=none;fontFamily=Verdana;textDirection=ltr;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=light-dark(#1c0202, #121212);" value="&lt;div&gt;推送并执行测试脚本.&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;推送测试脚本&lt;/span&gt;&lt;/div&gt;&lt;div&gt;temperature_log.sh和配置文&lt;/div&gt;&lt;div&gt;件atc_tests.yml,并启动测&lt;/div&gt;&lt;div&gt;试。&lt;/div&gt;" vertex="1">
+        <mxCell id="RyXczu5QCd7OCQcQSBTK-21" parent="5_7-amSGQpJ9ynjVVCIH-14" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelBorderColor=none;verticalAlign=middle;horizontal=1;fontSize=8;labelBackgroundColor=none;fontFamily=Verdana;textDirection=ltr;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=light-dark(#1c0202, #121212);" value="&lt;ul&gt;&lt;li&gt;推送测试脚本 temperature_log.sh 和配置文件 atc_tests.yml，并启动测试&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="60" width="225" x="10" y="580" as="geometry" />
-        </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-22" parent="5_7-amSGQpJ9ynjVVCIH-14" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;align=left;labelBorderColor=none;verticalAlign=middle;horizontal=1;fontSize=8;labelBackgroundColor=none;fontFamily=Verdana;textDirection=ltr;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=light-dark(#1c0202, #121212);" value="&lt;div&gt;推送文件的指令: ?&lt;/div&gt;&lt;div&gt;执行测试的指令:&amp;nbsp;dtest schedule_rit_mem&lt;/div&gt;" vertex="1">
-          <mxGeometry height="85" width="635" x="390" y="570" as="geometry" />
         </mxCell>
         <mxCell id="RyXczu5QCd7OCQcQSBTK-38" edge="1" parent="5_7-amSGQpJ9ynjVVCIH-14" source="RyXczu5QCd7OCQcQSBTK-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;align=left;labelBorderColor=none;verticalAlign=middle;horizontal=1;fontSize=8;labelBackgroundColor=none;fontColor=light-dark(#1c0202, #121212);fontFamily=Verdana;textDirection=ltr;strokeColor=#457B9D;" target="RyXczu5QCd7OCQcQSBTK-27">
           <mxGeometry relative="1" as="geometry" />
@@ -116,8 +104,20 @@
         <mxCell id="5_7-amSGQpJ9ynjVVCIH-117" parent="5_7-amSGQpJ9ynjVVCIH-14" style="rounded=0;whiteSpace=wrap;html=1;align=center;labelBorderColor=none;verticalAlign=middle;horizontal=1;fontSize=8;labelBackgroundColor=none;fontFamily=Verdana;textDirection=ltr;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=light-dark(#1c0202, #121212);dashed=1;" value="&lt;div&gt;python flashimage.py&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="245" x="320" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="5_7-amSGQpJ9ynjVVCIH-120" parent="5_7-amSGQpJ9ynjVVCIH-14" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelBorderColor=none;verticalAlign=middle;horizontal=1;fontSize=8;labelBackgroundColor=none;fontFamily=Verdana;textDirection=ltr;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;adb shell idme dev_flags 0x600440&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;adb shell idme fos_flags 0xa7&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;adb reboot&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+        <mxCell id="5_7-amSGQpJ9ynjVVCIH-120" parent="5_7-amSGQpJ9ynjVVCIH-14" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelBorderColor=none;verticalAlign=middle;horizontal=1;fontSize=8;labelBackgroundColor=none;fontFamily=Verdana;textDirection=ltr;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;adb shell idme dev_flags 0x600440&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;adb shell idme fos_flags 0xa7&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;adb reboot&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="75" width="245" x="320" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="5_7-amSGQpJ9ynjVVCIH-130" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;labelBorderColor=none;verticalAlign=middle;horizontal=1;fontSize=8;labelBackgroundColor=none;fontFamily=Verdana;textDirection=ltr;fillColor=#A8DADC;strokeColor=default;fontColor=light-dark(#1c0202, #121212);dashed=1;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(28, 2, 2), rgb(18, 18, 18));&quot;&gt;adb shell dtest SW_get_info&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="160" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="5_7-amSGQpJ9ynjVVCIH-131" edge="1" parent="1" source="RyXczu5QCd7OCQcQSBTK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="5_7-amSGQpJ9ynjVVCIH-130" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5_7-amSGQpJ9ynjVVCIH-132" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelBorderColor=none;verticalAlign=middle;horizontal=1;fontSize=8;labelBackgroundColor=none;fontFamily=Verdana;textDirection=ltr;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=light-dark(#1c0202, #121212);dashed=1;" value="&lt;ul&gt;&lt;li&gt;adb push atc_tests.yml /data/dfs/config_files/atc_tests.yml&lt;/li&gt;&lt;li&gt;&lt;li&gt;adb push temperature_log.sh /data/dfs/script/&lt;/li&gt;&lt;li&gt;adb shell&amp;nbsp;dtest schedule_rit_mem&lt;/li&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="60" width="345" x="160" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="5_7-amSGQpJ9ynjVVCIH-133" edge="1" parent="1" source="RyXczu5QCd7OCQcQSBTK-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="5_7-amSGQpJ9ynjVVCIH-132" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
