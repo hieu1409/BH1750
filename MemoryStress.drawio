@@ -108,13 +108,13 @@
           <mxGeometry height="75" width="245" x="320" y="350" as="geometry" />
         </mxCell>
         <mxCell id="5_7-amSGQpJ9ynjVVCIH-130" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;labelBorderColor=none;verticalAlign=middle;horizontal=1;fontSize=8;labelBackgroundColor=none;fontFamily=Verdana;textDirection=ltr;fillColor=#A8DADC;strokeColor=default;fontColor=light-dark(#1c0202, #121212);dashed=1;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(28, 2, 2), rgb(18, 18, 18));&quot;&gt;adb shell dtest SW_get_info&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="250" x="160" y="570" as="geometry" />
+          <mxGeometry height="60" width="250" x="160" y="565" as="geometry" />
         </mxCell>
         <mxCell id="5_7-amSGQpJ9ynjVVCIH-131" edge="1" parent="1" source="RyXczu5QCd7OCQcQSBTK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="5_7-amSGQpJ9ynjVVCIH-130" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5_7-amSGQpJ9ynjVVCIH-132" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelBorderColor=none;verticalAlign=middle;horizontal=1;fontSize=8;labelBackgroundColor=none;fontFamily=Verdana;textDirection=ltr;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=light-dark(#1c0202, #121212);dashed=1;" value="&lt;ul&gt;&lt;li&gt;adb push atc_tests.yml /data/dfs/config_files/atc_tests.yml&lt;/li&gt;&lt;li&gt;&lt;li&gt;adb push temperature_log.sh /data/dfs/script/&lt;/li&gt;&lt;li&gt;adb shell&amp;nbsp;dtest schedule_rit_mem&lt;/li&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="60" width="345" x="160" y="690" as="geometry" />
+          <mxGeometry height="60" width="345" x="160" y="684" as="geometry" />
         </mxCell>
         <mxCell id="5_7-amSGQpJ9ynjVVCIH-133" edge="1" parent="1" source="RyXczu5QCd7OCQcQSBTK-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="5_7-amSGQpJ9ynjVVCIH-132" value="">
           <mxGeometry relative="1" as="geometry" />
