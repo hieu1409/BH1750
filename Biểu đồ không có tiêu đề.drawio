@@ -1,97 +1,65 @@
 <mxfile host="app.diagrams.net">
-  <diagram name="Trang-1" id="bU3WTUBc5tZz8KQoaWiA">
-    <mxGraphModel dx="2543" dy="1346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="Trang-1" id="JyM5OOlIFxJOKuCvRSe3">
+    <mxGraphModel dx="1773" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-8" edge="1" parent="1" source="RyXczu5QCd7OCQcQSBTK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RyXczu5QCd7OCQcQSBTK-4">
+        <mxCell id="dMgUiSFwgb7iq63ZUo3a-3" edge="1" parent="1" source="dMgUiSFwgb7iq63ZUo3a-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;fontSize=17;" target="dMgUiSFwgb7iq63ZUo3a-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="确认测试的样机是否在User Firmware 版本 (Kiểm tra mẫu thử có phải đang ở chế độ người dùng hay không)" vertex="1">
-          <mxGeometry height="60" width="226" x="294" y="90" as="geometry" />
+        <mxCell id="dMgUiSFwgb7iq63ZUo3a-1" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=17;" value="ESD Gun" vertex="1">
+          <mxGeometry height="100" width="120" x="70" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-9" edge="1" parent="1" source="RyXczu5QCd7OCQcQSBTK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RyXczu5QCd7OCQcQSBTK-5">
+        <mxCell id="dMgUiSFwgb7iq63ZUo3a-5" edge="1" parent="1" source="dMgUiSFwgb7iq63ZUo3a-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;fontSize=17;" target="dMgUiSFwgb7iq63ZUo3a-4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="读样机的锁码给客户签. 签完了进行解锁样机( đọc mã khóa gửi cho khách hàng, khách hàng phải hồi lại mã mở khóa tiến hành mở khóa)" vertex="1">
-          <mxGeometry height="60" width="226" x="294" y="200" as="geometry" />
+        <mxCell id="dMgUiSFwgb7iq63ZUo3a-2" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=17;" value="Test Point 2, 3, 4, 5&amp;nbsp;" vertex="1">
+          <mxGeometry height="100" width="120" x="270" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-10" edge="1" parent="1" source="RyXczu5QCd7OCQcQSBTK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RyXczu5QCd7OCQcQSBTK-6">
+        <mxCell id="dMgUiSFwgb7iq63ZUo3a-9" edge="1" parent="1" source="dMgUiSFwgb7iq63ZUo3a-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;fontSize=17;" target="dMgUiSFwgb7iq63ZUo3a-8" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;nbsp;该样机从User版本到Diag版本&lt;div&gt;(chuyển từ bản User sang bản Diag)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="226" x="294" y="310" as="geometry" />
+        <mxCell id="dMgUiSFwgb7iq63ZUo3a-4" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=17;" value="MIC FPC&amp;nbsp;" vertex="1">
+          <mxGeometry height="100" width="120" x="460" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="Z7UcjraxR2Wtnf1hBuFD-2" edge="1" parent="1" source="RyXczu5QCd7OCQcQSBTK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Z7UcjraxR2Wtnf1hBuFD-1" value="">
+        <mxCell id="dMgUiSFwgb7iq63ZUo3a-11" edge="1" parent="1" source="dMgUiSFwgb7iq63ZUo3a-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;fontSize=17;" target="dMgUiSFwgb7iq63ZUo3a-10" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;进行更改IDME通过指令个&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;(tiến hành thay đổi IDME, bắt buộc phải làm sau khi chuyển sang bản Diag)&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="226" x="294" y="420" as="geometry" />
+        <mxCell id="dMgUiSFwgb7iq63ZUo3a-8" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=17;" value="MIC FPC VCC_1V8 Power Trace" vertex="1">
+          <mxGeometry height="100" width="120" x="660" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-20" edge="1" parent="1" source="RyXczu5QCd7OCQcQSBTK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RyXczu5QCd7OCQcQSBTK-19" value="">
+        <mxCell id="dMgUiSFwgb7iq63ZUo3a-14" edge="1" parent="1" source="dMgUiSFwgb7iq63ZUo3a-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;fontSize=17;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="dMgUiSFwgb7iq63ZUo3a-13" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-24" edge="1" parent="1" source="RyXczu5QCd7OCQcQSBTK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RyXczu5QCd7OCQcQSBTK-21">
+        <mxCell id="dMgUiSFwgb7iq63ZUo3a-10" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=17;" value="J1 - MLB TO MIC CONNECTOR &lt;span class=&quot;x7amdea&quot; style=&quot;box-sizing: border-box; color: rgb(255, 255, 255); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 16px; text-align: start; white-space: pretty; background-color: rgb(0, 0, 0);&quot;&gt;&lt;code class=&quot;x1amw8k4 xymaag xbs2zpe xjb2p0i x1qlqyl8 x1gqwrcx xw2csxc x7p5m3t xarctil x11pq3io&quot; style=&quot;box-sizing: border-box; border-radius: 0.25rem; padding-block: 0.15rem; padding-inline: 0.3rem; color: var(--x69dsh5); font-family: inherit; font-size: inherit; background-color: color-mix(in srgb,var(--x7fwydj) 50%,var(--xxsqvjy)); overflow-x: auto; overscroll-behavior-x: contain;&quot;&gt;(ON MLB)&lt;/code&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="100" width="130" x="860" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="dMgUiSFwgb7iq63ZUo3a-17" edge="1" parent="1" source="dMgUiSFwgb7iq63ZUo3a-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;fontSize=17;" target="dMgUiSFwgb7iq63ZUo3a-16" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;确认当前设定的电压&lt;/div&gt;&lt;div&gt;(HV/NV/LV)、温度(HT/NT/LT)&lt;/div&gt;&lt;div&gt;及设备软件版本。&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="226" x="294" y="560" as="geometry" />
+        <mxCell id="dMgUiSFwgb7iq63ZUo3a-13" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=17;" value="J3-MLB TO AMP CONNECTOR&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 16px; text-align: start; white-space: pretty; background-color: rgb(0, 0, 0);&quot;&gt;(ON MLB)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="120" x="1060" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-19" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;" value="adb shell dtest SW_get_info" vertex="1">
-          <mxGeometry height="80" width="637" x="673" y="550" as="geometry" />
-        </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-23" edge="1" parent="1" source="RyXczu5QCd7OCQcQSBTK-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RyXczu5QCd7OCQcQSBTK-22" value="">
+        <mxCell id="dMgUiSFwgb7iq63ZUo3a-19" edge="1" parent="1" source="dMgUiSFwgb7iq63ZUo3a-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dMgUiSFwgb7iq63ZUo3a-18" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-26" edge="1" parent="1" source="RyXczu5QCd7OCQcQSBTK-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RyXczu5QCd7OCQcQSBTK-25">
+        <mxCell id="dMgUiSFwgb7iq63ZUo3a-16" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=17;" value="MLB TO AMP FPC" vertex="1">
+          <mxGeometry height="100" width="120" x="1260" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="dMgUiSFwgb7iq63ZUo3a-22" edge="1" parent="1" source="dMgUiSFwgb7iq63ZUo3a-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dMgUiSFwgb7iq63ZUo3a-21" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;推送并执行测试脚本.&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;推送测试脚本&lt;/span&gt;&lt;/div&gt;&lt;div&gt;temperature_log.sh和配置文&lt;/div&gt;&lt;div&gt;件atc_tests.yml,并启动测&lt;/div&gt;&lt;div&gt;试。&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="226" x="294" y="680" as="geometry" />
+        <mxCell id="dMgUiSFwgb7iq63ZUo3a-18" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=17;" value="J1- AMP TO MLB CONNECTOR&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(0, 0, 0); color: rgb(255, 255, 255); font-family: -apple-system-body, ui-sans-serif, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 16px; text-align: start; white-space: pretty;&quot;&gt;(ON AMP)&lt;/span&gt;&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="150" x="1460" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-22" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;" value="&lt;div&gt;推送文件的指令: ?&lt;/div&gt;&lt;div&gt;执行测试的指令:&amp;nbsp;dtest schedule_rit_mem&lt;/div&gt;" vertex="1">
-          <mxGeometry height="85" width="637" x="673" y="667.5" as="geometry" />
-        </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-38" edge="1" parent="1" source="RyXczu5QCd7OCQcQSBTK-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RyXczu5QCd7OCQcQSBTK-27">
+        <mxCell id="dMgUiSFwgb7iq63ZUo3a-24" edge="1" parent="1" source="dMgUiSFwgb7iq63ZUo3a-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dMgUiSFwgb7iq63ZUo3a-23" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;nbsp;设备自动重启后，若出现&lt;b&gt;白灯交替闪烁&lt;/b&gt;，则说明测试正在正常运行。" vertex="1">
-          <mxGeometry height="60" width="226" x="294" y="800" as="geometry" />
+        <mxCell id="dMgUiSFwgb7iq63ZUo3a-21" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=17;" value="AMP BOARD VDD_1V8 Power Trace&amp;nbsp;" vertex="1">
+          <mxGeometry height="100" width="150" x="1690" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-39" edge="1" parent="1" source="RyXczu5QCd7OCQcQSBTK-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RyXczu5QCd7OCQcQSBTK-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value=" 检查上一轮测试结果" vertex="1">
-          <mxGeometry height="60" width="226" x="294" y="890" as="geometry" />
-        </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-31" edge="1" parent="1" source="RyXczu5QCd7OCQcQSBTK-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RyXczu5QCd7OCQcQSBTK-30" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-33" edge="1" parent="1" source="RyXczu5QCd7OCQcQSBTK-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RyXczu5QCd7OCQcQSBTK-32" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-29" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;" value="灯显示?" vertex="1">
-          <mxGeometry height="85" width="232.25" x="290.88" y="980" as="geometry" />
-        </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-37" edge="1" parent="1" source="RyXczu5QCd7OCQcQSBTK-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="RyXczu5QCd7OCQcQSBTK-34">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="724.7142857142858" y="1270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-30" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="路: PASS" vertex="1">
-          <mxGeometry height="60" width="120" x="665.375" y="992.5" as="geometry" />
-        </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-35" edge="1" parent="1" source="RyXczu5QCd7OCQcQSBTK-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RyXczu5QCd7OCQcQSBTK-34" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-32" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" value="红灯常亮或白灯持续闪烁: FAIL" vertex="1">
-          <mxGeometry height="60" width="120" x="347.005" y="1160" as="geometry" />
-        </mxCell>
-        <mxCell id="RyXczu5QCd7OCQcQSBTK-34" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&#xa; 通过 ADB 连接，导出 &lt;code&gt;debug_service&lt;/code&gt;、&lt;code&gt;logs&lt;/code&gt;、&lt;code&gt;dfs&lt;/code&gt; 等关键目录&#xa;&#xa;" vertex="1">
-          <mxGeometry height="72.5" width="152.99" x="330.5" y="1297.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Z7UcjraxR2Wtnf1hBuFD-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;" value="&lt;div&gt;adb shell idme dev_flags 0x600440&lt;/div&gt;&lt;div&gt;adb shell idme fos_flags 0xa7&lt;/div&gt;&lt;div&gt;adb reboot&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="620" x="690" y="400" as="geometry" />
+        <mxCell id="dMgUiSFwgb7iq63ZUo3a-23" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=17;" value="U205 IC PIN 5 (VDD_1V8)" vertex="1">
+          <mxGeometry height="100" width="150" x="1920" y="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
